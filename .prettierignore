@@ -1,0 +1,5 @@
+src/legacy
+**/*.eot
+**/*.svg
+**/*.ttf
+**/*.woff
